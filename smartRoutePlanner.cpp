@@ -89,6 +89,9 @@ int main(){
     vector<string> stations={"gitanjali","netaji","kalighat","parkstreet","mgroad","shyambazar","dumdum","noapara","baranagar","dakshineswar"};
     int n=stations.size();
     string s,d,a;
+  cout<<"Following are the stations available - gitanjali, netaji, kalighat, parkstreet,mgroad, shyambazar,dumdum, noapara, baranaga, dakshineswar "<<endl;
+   cout<<"---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"<<endl;
+  cout<<endl;
     cout<<"Enter your Source Station - ";
     cin>>s;
     cout<<endl;
